@@ -3,7 +3,7 @@
 
 A clone of the Telegram chat website. This is a backup for my hard-disk, just incase they fail. And a place for you to start from, for you.
 
-The assets can be foundL [here](https://github.com/salimi2991/telegram-clone)
+The assets can be found: [here](https://github.com/salimi2991/telegram-clone)
 
 **(Thanks Front End With Salimi!)**
 
@@ -19,7 +19,7 @@ The assets can be foundL [here](https://github.com/salimi2991/telegram-clone)
 
 ## Authors
 
-- [LeidenSchaft-Xiotim Development Team](https://www.github.com/octokatherine)
+- [LeidenSchaft-Xiotim Development Team](https://www.github.com/l-xdt/)
 
 - [Alvin Maranx, II ツ (Avun)](https://www.github.com/avunii/)
 
